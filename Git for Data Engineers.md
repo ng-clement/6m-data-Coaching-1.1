@@ -165,6 +165,7 @@ You'll see `note1.txt` in red under "Untracked files"
 
 ```bash
 git add note1.txt
+#git add .  #add all files
 ```
 
 Check status again:
